@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jefflin808
-- 👀 I’m interested in Golang, Angular, Linux etc.
+- 👀 I’m interested in Golang, Node.js, Angular etc.
 - 🌱 I’m currently learning Golang web programming and node.js 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
